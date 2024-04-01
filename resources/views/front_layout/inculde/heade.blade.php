@@ -5,6 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="author" content="Ahmed Alsolya">
+<link rel="icon" type="image/png" href="{{ asset("asset_front/images/portfolio.png") }}">
 <meta name="keywords"
     content="Portfolio, Personal Portfolio, Ahmed, Ahmed Alsolya, Ahmed Portfolio, Ahmed Alsolya Portfolio">
 <meta name="description" content="This Is My Portfolio">
